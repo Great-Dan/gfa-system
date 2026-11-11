@@ -1,0 +1,16 @@
+# Vercel project metadata
+.vercel
+
+# Environment files
+.env
+.env.*
+
+# Backups and logs
+backups/
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
